@@ -1,5 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Custom Authentication with Next.js
 
+This project implements a **custom authentication system** using **Next.js** with email and password authentication. Users can **sign up, sign in, and log out securely** while maintaining session-based authentication.
+
+## Features
+
+- **User Authentication**: Sign up and log in with email and password.
+- **Protected Routes**: Restrict access to certain pages based on authentication.
+- **Role-Based Access**: Different UI and permissions for users and admins.
 ## Getting Started
 
 First, run the development server:
